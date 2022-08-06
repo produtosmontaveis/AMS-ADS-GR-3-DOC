@@ -114,11 +114,15 @@ Deverão ser desenvolvidas funcionalidades para atender às seguintes necessidad
 
 *RNF7:* O desenvolvimento do software deverá prever entregas parciais ao cliente do produto de software.
 
-## 4 Protótipos
+## 4 Modelo Canvas
+
+[![Modelo Canvas](./assets/modelo-canvas.png)]()
+
+## 5 Protótipos
 
 Seção designada para a demonstração visual entre *layouts* e relacionamento das interfaces, desenvolvida através da plataforma Figma.
 
-### 4.1 Protótipo inicial
+### 5.1 Protótipo inicial
 
 Primeira versão do protótipo para apresentação ao cliente perante a reunião realizada em 30/06.
 
