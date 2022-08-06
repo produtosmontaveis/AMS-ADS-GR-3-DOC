@@ -19,7 +19,7 @@ Id da Equipe: Produtos Montáveis
 | 1681432212026	| João Gabriel Ávila Ruiz |	Dev: Web
 | 1681432212010	| Yago Cauan de Oliveira Silva | Dev
 
-## 1. Descrição Geral do Cliente
+## 1 Descrição Geral do Cliente
 
 ### 1.1 Descrição da Necessidade
 
@@ -56,7 +56,7 @@ Proporcionar a demonstração prática de conceitos matemáticos
 - Proporcionar fases no processo de aprendizado (performance do aluno)
 - Análise de resultado
 
-## 2. Descrição dos Gestores e dos Usuários
+## 2 Descrição dos Gestores e dos Usuários
 
 Representante: _Profa. Adriane_ <br>
 Função/Unidade: _Diretoria da Fatec São Caetano do Sul_ <br>
@@ -74,7 +74,7 @@ Representante: _Prof. Carlos Veríssimo_ <br>
 Função/Unidade: _Professor da disciplina Técnicas Avançadas de Programação Web e Mobile_ <br>
 Papel: _Cliente_ <br>
 
-## 3. Requisitos do Cliente
+## 3 Requisitos do Cliente
 
 Deverão ser desenvolvidas funcionalidades para atender às seguintes necessidades de negócio
 
@@ -113,3 +113,19 @@ Deverão ser desenvolvidas funcionalidades para atender às seguintes necessidad
 *RNF6:* Terá uma interface de fácil uso tanto para usuários experientes como para leigos. 
 
 *RNF7:* O desenvolvimento do software deverá prever entregas parciais ao cliente do produto de software.
+
+## 4 Protótipos
+
+Seção designada para a demonstração visual entre *layouts* e relacionamento das interfaces, desenvolvida através da plataforma Figma.
+
+### 4.1 Protótipo inicial
+
+Primeira versão do protótipo para apresentação ao cliente perante a reunião realizada em 30/06.
+
+#### Web
+
+![Protótipo mobile - primeira versão](./assets/prototipo-mobile-v1.png)
+
+#### Mobile
+
+![Protótipo web - primeira versão](./assets/prototipo-web-v1.png)
