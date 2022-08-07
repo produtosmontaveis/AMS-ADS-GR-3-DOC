@@ -5,8 +5,8 @@
 | Data | Versão | Descrição | Autor(es) |
 | :---: | :-----: | :-------: | :-------: |
 | 03/06/2022 | V1 | Criação do Documento | Prof. Carlos Veríssimo |
-| 10/06/2022 | V2 | Definição de papéis dos integrantes da equipe | Gustavo Almeida Carvalho e Pedro Henrique Peruzzi Vandellei |
-| 24/06/2022 | V3 | Situação problema e modelo de negócio  | Gustavo Almeida Carvalho e Pedro Henrique Peruzzi Vandellei |
+| 10/06/2022 | V2 | Definição de papéis dos integrantes da equipe e modelo de negócios | Gustavo Almeida Carvalho e Pedro Henrique Peruzzi Vandellei |
+| 24/06/2022 | V3 | Situação problema e tecnologias e ferramentas  | Gustavo Almeida Carvalho e Pedro Henrique Peruzzi Vandellei |
 
 ## Identificação da Equipe
 
@@ -115,22 +115,39 @@ Deverão ser desenvolvidas funcionalidades para atender às seguintes necessidad
 
 *RNF7:* O desenvolvimento do software deverá prever entregas parciais ao cliente do produto de software.
 
-## 4 Modelo Canvas
+## 4 Modelo de Negócio
 
 [![Modelo Canvas](./assets/modelo-canvas.png)]()
 
-## 5 Protótipos
+## 5 Situação Problema
+Ponto de partida para realização do projeto, através de uma análise detalhada do problema, público-alvo e macro necessidades
 
-Seção designada para a demonstração visual entre *layouts* e relacionamento das interfaces, desenvolvida através da plataforma Figma.
+### 5.1	Identificação do problema
+O cliente deseja implementar um novo paradigma para se ensinar produtos notáveis. Ele possui um modelo físico e pretende virtualizá-lo de forma que mais alunos possam aprender o objeto de estudo.
 
-### 5.1 Protótipo inicial
+### 5.2	Público-alvo
+Estudantes do ensino fundamental e médio, tendo em vista o contato dos alunos na grade curricular de matemática no sistema de educação do Brasil.
 
-Primeira versão do protótipo para apresentação ao cliente perante a reunião realizada em 30/06.
+### 5.3	Macro necessidades
+O sistema deve ser capaz de fornecer ao usuário uma experiência visual e interativa, incentivar e auxiliar o aluno a resolver os desafios na plataforma, de modo que ele seja capaz de abstrair o conteúdo de produtos notáveis à resolução de problemas matemáticos.
 
-#### Web
+## 6 Tecnologias e Ferramentas
+O conjunto de tecnologias (Tech Stach) e ferramentas utilizadas no projeto foi escolhido cuidadosamente de acordo com a necessidade do projeto, assim como leva em consideração a familiaridade e experiência dos integrantes da equipe.
 
-![Protótipo mobile - primeira versão](./assets/prototipo-mobile-v1.png)
+### 6.1 Gerenciamento do projeto
+O Trello foi usado para gerenciamento do projeto através, onde as atribuições são definidas em um quadro seguindo a metodologia do Scrum. Para a comunicação entre os membros da equipe, assim como realização das Sprints, foi utilizada a plataforma Discord.
 
-#### Mobile
+### 6.2 Plataforma
+Refere-se ao ambiente onde o software é executado.
 
-![Protótipo web - primeira versão](./assets/prototipo-web-v1.png)
+#### 6.2.1 Mobile
+O software terá como foco o desenvolvimento em Android, utilizando a ferramenta Android Studio, visto que grande parte da população brasileira possui um aparelho celular, sendo o Android o sistema operacional de aparelhos celulares no Brasil.
+
+#### 6.2.2 Web
+A plataforma web será utilizada como serviço para o aplicativo. O serviço consiste em uma API (Application Programming Interface) no padrão REST (REpresentation State Transfer). Para isso, o software utilizado é desenvolvido em Spring Boot através da plataforma Intellij IDEA Community. 
+
+#### 6.2.3 Unity
+O Unity será utilizado para o desenvolvimento dos modelos utilizados para a montagem dos produtos notáveis no aplicativo.
+
+#### 6.3 Implantação
+O Heroku foi escolhido para a implantação da API desenvolvida pela equipe pela facilidade de implantação e integração com o GitHub, utilizada para o versionamento dos códigos-fonte, tanto do aplicativo, como da API Web Service.
