@@ -6,6 +6,7 @@
 | :---: | :-----: | :-------: | :-------: |
 | 03/06/2022 | V1 | Criação do Documento | Prof. Carlos Veríssimo |
 | 10/06/2022 | V2 | Definição de papéis dos integrantes da equipe | Gustavo Almeida Carvalho e Pedro Henrique Peruzzi Vandellei |
+| 24/06/2022 | V3 | Situação problema e modelo de negócio  | Gustavo Almeida Carvalho e Pedro Henrique Peruzzi Vandellei |
 
 ## Identificação da Equipe
 
