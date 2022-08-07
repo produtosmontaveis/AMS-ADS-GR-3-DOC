@@ -7,6 +7,7 @@
 | 03/06/2022 | V1 | Criação do Documento | Prof. Carlos Veríssimo |
 | 10/06/2022 | V2 | Definição de papéis dos integrantes da equipe e modelo de negócios | Gustavo Almeida Carvalho e Pedro Henrique Peruzzi Vandellei |
 | 24/06/2022 | V3 | Situação problema e tecnologias e ferramentas  | Gustavo Almeida Carvalho e Pedro Henrique Peruzzi Vandellei |
+| 01/07/2022 | V4 | Protótipos  | Gustavo Almeida Carvalho e Pedro Henrique Peruzzi Vandellei |
 
 ## Identificação da Equipe
 
@@ -151,3 +152,19 @@ O Unity será utilizado para o desenvolvimento dos modelos utilizados para a mon
 
 #### 6.3 Implantação
 O Heroku foi escolhido para a implantação da API desenvolvida pela equipe pela facilidade de implantação e integração com o GitHub, utilizada para o versionamento dos códigos-fonte, tanto do aplicativo, como da API Web Service.
+
+## 7 Protótipos
+
+Seção designada para a demonstração visual entre *layouts* e relacionamento das interfaces, desenvolvida através da plataforma Figma.
+
+### 7.1 Protótipo inicial
+
+Primeira versão do protótipo para apresentação ao cliente perante a reunião realizada em 30/06.
+
+#### Web
+
+![Protótipo mobile - primeira versão](./assets/prototipo-mobile-v1.png)
+
+#### Mobile
+
+![Protótipo web - primeira versão](./assets/prototipo-web-v1.png)
