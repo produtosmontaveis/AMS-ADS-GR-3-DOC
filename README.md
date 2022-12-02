@@ -10,7 +10,7 @@
   <p>
     Repositório para documentação do projeto.
   </p>
-    <a href="https://raw.githubusercontent.com/produtosmontaveis/AMS-ADS-GR-3-DOC/main/documents/06_Documenta%C3%A7%C3%A3o.pdf"><strong>Ver o documento em pdf »</strong></a>
+    <a href="https://raw.githubusercontent.com/produtosmontaveis/AMS-ADS-GR-3-DOC/main/documents/v07_Documenta%C3%A7%C3%A3o.pdf"><strong>Ver o documento em pdf »</strong></a>
 </div>
 
 ## Histórico da Revisão
